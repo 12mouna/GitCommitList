@@ -1,4 +1,4 @@
-# choice
+# Developing the App using
 
 > MaterialUI
 
@@ -6,7 +6,7 @@
 
 > graph ql
 
-# requirement to start the application
+# prerequisities to start the application
 
 
 
