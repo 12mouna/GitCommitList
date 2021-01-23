@@ -16,7 +16,7 @@ npm version => 6.14.8
 
 # start app
 
-Generate an Access Token using this link : https://github.com/settings/tokens
+Generate an Access Token using this link : https://github.com/settings/tokens and copy it
 
 Clone repo and install dependencies:
 
@@ -25,7 +25,7 @@ Clone repo and install dependencies:
 > cd CommitList
 
 
-> put your Acess Token in .env and .graphqlconfig under Authorization
+> Paste the token as react_app_github_key in .env file And authorization value in the heade in .graphqlconfig file
 
 > npm install
 
