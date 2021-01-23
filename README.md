@@ -20,7 +20,7 @@ npm version => 6.14.8
 
 Clone repo and install dependencies:
 
-> git clone https://github.com/12mouna/CommitList
+> git clone https://github.com/12mouna/GitCommitList
 
 > cd CommitList
 
