@@ -8,9 +8,7 @@
 
 # requirement to start the application
 
-Generate an Access Token using this link : https://github.com/settings/tokens
 
-put your Acess Token in .env and .graphqlconfig under Authorization
 
 node version => 17.0.1
 
@@ -18,11 +16,16 @@ npm version => 6.14.8
 
 # start app
 
+Generate an Access Token using this link : https://github.com/settings/tokens
+
 Clone repo and install dependencies:
 
 > git clone https://github.com/12mouna/GitCommitList
 
 > cd CommitList
+
+
+> put your Acess Token in .env and .graphqlconfig under Authorization
 
 > npm install
 
